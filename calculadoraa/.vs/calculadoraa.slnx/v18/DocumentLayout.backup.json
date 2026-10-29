@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro-projeto\\calculadoraa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331C8375-DBCF-4A39-BA3E-C14A9B58F538}|calculadoraa\\calculadoraa.csproj|c:\\users\\instrutor\\documents\\github\\primeiro-projeto\\calculadoraa\\calculadoraa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{331C8375-DBCF-4A39-BA3E-C14A9B58F538}|calculadoraa\\calculadoraa.csproj|solutionrelative:calculadoraa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A7FEC317-79C3-5745-E11A-0339E18D9EC4}|calculadoraa\\calculadoraa.csproj|c:\\users\\instrutor\\documents\\github\\primeiro-projeto\\calculadoraa\\calculadoraa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7FEC317-79C3-5745-E11A-0339E18D9EC4}|calculadoraa\\calculadoraa.csproj|solutionrelative:calculadoraa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro-projeto\\calculadoraa\\calculadoraa\\Form1.cs",
               "RelativeDocumentMoniker": "calculadoraa\\Form1.cs",
-              "ToolTip": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro-projeto\\calculadoraa\\calculadoraa\\Form1.cs [Design]",
-              "RelativeToolTip": "calculadoraa\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro-projeto\\calculadoraa\\calculadoraa\\Form1.cs [Projeto]",
+              "RelativeToolTip": "calculadoraa\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T00:23:45.255Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
